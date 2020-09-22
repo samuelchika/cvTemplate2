@@ -1,0 +1,113 @@
+{
+    "bio": {
+        "name": "Rilwan Akorede Abiodun",
+        "jobTitle": "Graduate Trainee",
+        "address": "139, North Strand Road, Dublin 3, D03 V0P0, Ireland",
+        "phone": "353(0)89988344",
+        "email": "abiodunoau@gmail.com",
+        "linkedIn": "https://www.linkedin.com/in/rilwanabiodunmsc",
+        "briefBio": "Detail-oriented and best-performing professional with extensive experience in account and finance management and customer service. Proven history of success in managing bookkeeping and assisting in general financial management and analysis. Expert in ensuring confirmation of account irregularities by attaining and investigating data from multiple sources, such as sales, trade promotions, customer service department, and clients. Skilled at working with accountant about day-to-day operations of financial activities and related issues. Proficient in MS Word, Excel, PowerPoint & Pitchbooks, Spreadsheet, and QuickBooks"
+    },
+    "expertises": [
+        "Account & Finance Management ",
+        "Financial Modelling & Valuation",
+        "Cross-team Collaboration",
+        "Operations Management",
+        "Team Management",
+        "Problem Resolution",
+        "Customer Service & Satisfaction",
+        "Reporting & Documentation",
+        "Rapport Building"
+    ],
+    "professions": [
+        {
+            "companyName": "Akinyemi Electrical Enterprise, Nigeria",
+            "startDate": "12-2018",
+            "endDate": "08/2019",
+            "title": "Accounts Recieivable Specialist",
+            "description": "Sent customer payments by recording cash, cheques, and credit card transactions. Managed bookkeeping. Supported in general financial administration and investigation. Confirmed authentication of account inconsistencies by gaining and examining data from various resources, including sales, trade promotions, customer service department, and clients.",
+            "contribution": [
+                "Shortened receivables by keeping invoice accounts.",
+                "Organised monthly transfer to accounts receivable, proved totals, and finally generated a report."
+            ]
+        }, {
+            "companyName": "Cross Rivers State House of Assembly, Nigeria",
+            "startDate": "11-2017",
+            "endDate": "10/2018",
+            "title": "Account Officer",
+            "description": "Collaborated with accountant regarding daily operations of financial actions and additional interrelated problems. Supported the department with extraordinary tasks as needed. Facilitated in enhancing voucher, bring up-to-date account book, and settlement of members’ account regarding loans.",
+            "contribution": [
+                "Calculated expenses for valuable members and other employees in the House of Assembly",
+                "Delivered support to the department with confirming well-timed and perfectly execution of all accounting procedures."
+            ]
+        }, {
+            "companyName": "African Alliance Insurance Plc, Nigeria",
+            "startDate": "09-2017",
+            "endDate": "11/2017",
+            "title": "Graduate Trainee (Accounts)",
+            "description": "Coordinated with the accountant about daily financial activities and further correlated matters. Aided with producing and forwarding invoices. Controlled clients’ accounts and traced inventory.",
+            "contribution": [
+                "Tested records for mistakes and completed modifications as needed.",
+                "Administered accounting and backed in overall financial management and investigation."
+            ]
+        }
+    ],
+    "educations": [
+        {
+            "title": "M.Sc Accounting & Finance Management",
+            "schoolName": "Griffith College Dublin, Ireland",
+            "date": "09/2020",
+            "details": [
+                "Certificate: NFQ Level 9, and QQI validation. ",
+                "Grade: Upper Second Class Honor (2.1)",
+                "Modules Completed: International Financial Reporting & Analysis, Strategic Performance Management, Law & Corporate Governance, Advanced Audit & Assurance, Digital Business, Business Consultancy & Analysis, Taxation (IRL), Strategic Financial Management, Research Methods, and Research Methods Workshop.",
+                "Emerged as best group in Business Consultancy and Analysis (BCA) for 2019/2020 group presentation.",
+                "Completed final year project to understand the usefulness of corporate annual report to individual investors"
+
+            ]
+        }, {
+            "title": "Financial Modelling & Valuation ",
+            "schoolName": "Corporate Finance Institute, Canada",
+            "date": "07/2020",
+            "details": [
+                "The CFI courses count as verifiable CPE credits for CPAs and other accounting title holders.",
+                "Completed 5 prerequisite courses, 3 electives, and 9 core courses. ",
+                "Core courses completed  includes: Advanced Financial Modeling & Valuation; Advanced Excel Formulas; Building a 3 Statement Financial Model; Business Valuation Modeling; Budgeting & Forecasting; FP&A Monthly Cash Flow Forecast Model; Scenario & Sensitivity Analysis in Excel; Dashboards & Data Visualization; PowerPoint & Pitchbooks; Real Estate Financial Modeling.",
+                "Excelled in all the required courses with Ace badge (100%) in PowerPoints & Pitchbooks."
+            ]
+        }, {
+            "title": "B.Sc. Accounting ",
+            "schoolName": "Obafemi Awolowo University, Nigeria.",
+            "date": "08/2017",
+            "details": [
+                "Grade: Upper Second Class Honor (2.1).",
+                "Modules Completed: Advanced Financial Accounting, Cost Accounting, Taxation, Management Accounting, International Accounting, Auditing, Financial Management, Principles of Economics I & II, Statistical Methods and Sources I & II, etc.",
+                "Completed final year project to understand the effect of total quality management on employees’ performance on small and medium scale enterprise (SMEs)."
+            ]
+        }
+    ],
+    "license":[
+        {
+            "title": "Accelerate Program",
+            "body": "Association of Chartered Certified Accountants (ACCA)."
+        }, {
+            "title": "Certified Financial Modeling & Valuation Analyst (FMVA)",
+            "body": "Corporate Finance Institute (CFI)."
+        }, {
+            "title": "Certified Customer Service Professional",
+            "body": "Chartered Institute of Customer Relationship Management"
+        }, {
+            "title": "Certified Project Manager (CPM)",
+            "body": "International Project Management Professionals (IPMP)"
+        }, {
+            "title": "Proficiency in Management",
+            "body": "Nigerian Institute of Management (Chartered)"
+        }, {
+            "title": "Professional Diploma in Customer Service & Marketing",
+            "body": "Institute of Chartered Digital Marketing"
+        }, {
+            "title": "Financial Management (Diploma Program)",
+            "body": "International Business Management Institute (IBMI)"
+        }
+    ]
+}
